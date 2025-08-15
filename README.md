@@ -1,5 +1,7 @@
 ## python-cython-c-extesion-speed-test
 
+[English](./README.en.md) | [中文](./README.md)
+
 ## 说明
 
 一个对比原生python，c扩展与cython运行速度的测试
