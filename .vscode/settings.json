@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "python.h": "c"
+    },
+    "python.analysis.extraPaths": [
+        "${workspaceFolder}"
+    ]
+}
